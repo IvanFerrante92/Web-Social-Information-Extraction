@@ -18,4 +18,4 @@ used in notebook files:
 <br>
 All the data genereted by our project are stored in the DATA folder, except for some json file
 that would have been too heavy to send.
-In the PDF there are all the code explained and the results commented for all steps of our project.
+In the file report.pdf there are all the code explained and the results commented for all steps of our project.
