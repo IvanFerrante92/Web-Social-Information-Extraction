@@ -10,6 +10,7 @@ which we can explain step by step our code. Our work is organized in 3 notebook 
 <br>
 Furthermore, there are also two python files in which we have written some functions that we
 used in notebook files:
+<br>
 * crawler.py: contains some functions used in cluster analysis of Twitter and Wikipedia
 * recommender_system.py: contains some function used in our recommender system
 <br>
