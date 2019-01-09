@@ -11,8 +11,10 @@ which we can explain step by step our code. Our work is organized in 3 notebook 
 Furthermore, there are also two python files in which we have written some functions that we
 used in notebook files:
 <br>
-* crawler.py: contains some functions used in cluster analysis of Twitter and Wikipedia
-* recommender_system.py: contains some function used in our recommender system
+
+* Crawler.py: contains some functions used in cluster analysis of Twitter and Wikipedia
+* Recommender_system.py: contains some function used in our recommender system
+
 <br>
 All the data genereted by our project are stored in the DATA folder, except for some json file
 that would have been too heavy to send.
